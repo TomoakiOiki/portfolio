@@ -1,0 +1,14 @@
+{
+    "presets": [
+        [
+            "next/babel",
+            {
+                "styled-jsx": {
+                    "plugins": [
+                        "@babel/plugin-transform-react-jsx"
+                    ]
+                }
+            }
+        ]
+    ]
+}
