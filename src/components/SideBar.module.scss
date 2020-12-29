@@ -1,4 +1,7 @@
-.sideBar {
-  background-color: aqua;
+.sidebar {
+  background-color: gainsboro;
   height: 100vh;
+  &__logo {
+    width: 100%;
+  }
 }
