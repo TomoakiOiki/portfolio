@@ -1,7 +1,4 @@
-export default function Home() {
-  return (
-    <>
-      <section>hogehoge</section>
-    </>
-  );
-}
+const Home: React.FC = () => {
+  return <>hogehoge</>;
+};
+export default Home;
